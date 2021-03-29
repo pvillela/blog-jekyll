@@ -14,7 +14,7 @@ gem "minima", "~> 2.5"
 # gem "jekyll-theme-minimal"
 # gem "jekyll-theme-slate"
 # gem "jekyll-theme-architect"
-gem "jekyll-theme-clean-blog"
+# gem "jekyll-theme-clean-blog"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

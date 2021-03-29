@@ -37,8 +37,6 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-clean-blog (4.0.10)
-      jekyll (>= 3.8.5)
     jekyll-timeago (0.13.1)
       mini_i18n (>= 0.8.0)
     jekyll-watch (2.2.1)
@@ -80,7 +78,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-theme-clean-blog
   jekyll-timeago (~> 0.13.1)
   minima (~> 2.5)
   tzinfo (~> 1.2)
